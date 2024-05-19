@@ -5,12 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+# Research Papers
 
-{% include base_path %}
+One-Way Functions vs. TFNP: Simpler and Improved [ITCS] [eprint]
+Lukás Folwarczný, Mika Göös, Pavel Hubácek, Gilbert Maystre, Weiqiang Yuan  
+15th Innovations in Theoretical Computer Science （ITCS 2024)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+The Exact Bipartite Matching Polytope Has Exponential Extension Complexity [SODA] [arxiv]
+Xinrui Jia, Ola Svensson, Weiqiang Yuan
+ACM-SIAM Symposium on Discrete Algorithms (SODA 2023)
+
+Lower Bounds for Unambiguous Automata via Communication Complexity [ICALP] [eccc]
+Mika Göös, Stefan Kiefer, Weiqiang Yuan
+49th EATCS International Colloquium on Automata, Languages and Programming (ICALP 2022)
+
+Log-rank and lifting for AND-functions [STOC] [eccc]
+Alexander Knop, Shachar Lovett, Sam McGuire, Weiqiang Yuan
+53rd Annual ACM Symposium on Theory of Computing (STOC 2021)
+
+# Surveys
