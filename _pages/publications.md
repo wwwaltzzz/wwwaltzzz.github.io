@@ -17,7 +17,7 @@ Lower Bounds for Unambiguous Automata via Communication Complexity [[ICALP](http
 Mika Göös, Stefan Kiefer, Weiqiang Yuan  
 49th EATCS International Colloquium on Automata, Languages and Programming (ICALP 2022)
 
-Log-rank and lifting for AND-functions [[STOC](https://dl.acm.org/doi/10.1145/3406325.3450999)] [[STOC](https://dl.acm.org/doi/10.1145/3406325.3450999)] [[eccc](https://eccc.weizmann.ac.il/report/2020/155/)]  
+Log-rank and lifting for AND-functions [[STOC](https://dl.acm.org/doi/10.1145/3406325.3450999)] [[eccc](https://eccc.weizmann.ac.il/report/2020/155/)]  
 Alexander Knop, Shachar Lovett, Sam McGuire, Weiqiang Yuan  
 53rd Annual ACM Symposium on Theory of Computing (STOC 2021)
 
