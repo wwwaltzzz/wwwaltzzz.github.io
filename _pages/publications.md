@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Research Papers
-
-One-Way Functions vs. TFNP: Simpler and Improved [ITCS] [eprint]  
+One-Way Functions vs. TFNP: Simpler and Improved [[ITCS](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2024.50)] [[eprint](https://eprint.iacr.org/2023/945)]  
 Lukás Folwarczný, Mika Göös, Pavel Hubácek, Gilbert Maystre, Weiqiang Yuan  
 15th Innovations in Theoretical Computer Science （ITCS 2024)
 
@@ -23,4 +21,3 @@ Log-rank and lifting for AND-functions [STOC] [eccc]
 Alexander Knop, Shachar Lovett, Sam McGuire, Weiqiang Yuan  
 53rd Annual ACM Symposium on Theory of Computing (STOC 2021)
 
-# Surveys
