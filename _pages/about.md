@@ -10,4 +10,4 @@ redirect_from:
 Hi, I am a third-year Ph. D. student in the [Theory group](https://theory.epfl.ch/) at EPFL. I am lucky to be co-advised by [Mika Göös](https://ic-people.epfl.ch/~goos/) and [Ola Svensson](https://theory.epfl.ch/osven/).
 Previously, I obtained my bachelor's degree from IIIS, Tsinghua University.
 
-I have broad interests in theoretical computer science. In particular, I mainly focus on the mostly study power of concrete computational models (e.g. decision trees, circuits, and communication protocols) as well as their applications in cryptography.
+I have broad interests in theoretical computer science, with a focus on the power of concrete computational models (e.g. decision trees, circuits, and communication protocols) as well as their applications in cryptography.
