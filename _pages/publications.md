@@ -21,6 +21,6 @@ Log-rank and lifting for AND-functions [[STOC](https://dl.acm.org/doi/10.1145/34
 Alexander Knop, Shachar Lovett, Sam McGuire, Weiqiang Yuan  
 53rd Annual ACM Symposium on Theory of Computing (STOC 2021)
 
-Guest Column: Models of computation between decision trees and communication [[SIGACT](https://dl.acm.org/doi/10.1145/3471469.3471479)]
-Alexander Knop, Shachar Lovett, Sam McGuire, Weiqiang Yuan
+Guest Column: Models of computation between decision trees and communication [[SIGACT](https://dl.acm.org/doi/10.1145/3471469.3471479)]  
+Alexander Knop, Shachar Lovett, Sam McGuire, Weiqiang Yuan  
 SIGACT news, Volume 52, No. 2, 2021
